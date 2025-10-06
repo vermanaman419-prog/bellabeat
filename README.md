@@ -78,7 +78,7 @@ plt.show()
 Activity levels are generally consistent on weekdays, but there is a noticeable spike in average steps on **Tuesday** and **Saturday**.  
 **Sunday** shows the lowest average, suggesting users are less active on that day.
 
-![Average Steps by Day of Week](images/average_steps_by_day.png)
+![Average Steps by Day of Week](images/steps_vs_caloriesburned.png)
 ```
 
 ```
